@@ -1,0 +1,43 @@
+body{
+    margin-left: 30px;
+    margin-right:30px;
+    background-color: indianred;
+}
+.birthday-name{
+    font-family: 'Lobster', cursive;
+    text-align:center;
+    background-color:white;
+    color:blueviolet;
+    font-size: 40px;
+}
+.text-div{
+    font-family: 'Akaya Telivigala', cursive;
+    color: purple;
+    font-size: 30px;
+    background-color: rgb(30, 231, 231);
+    border-radius:10px;
+}
+
+.image-div img{
+    width: 30%;
+    float: left;
+    margin: 10px;
+    border: 10px solid gray;
+    border-radius:10px;
+    overflow: hidden;
+    
+}
+#img9{
+    max-width: 70%;
+}
+
+.from{
+    margin-top: 100px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size:30px;
+    color: lightgoldenrodyellow;
+}
+span{
+    color: blue;
+}
